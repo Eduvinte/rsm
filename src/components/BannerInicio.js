@@ -14,7 +14,7 @@ function BannerInicio() {
             <p>
               Te invitamos a nuestra plataforma, indicadores financieros.
               En que consiste esta página web ? Acá tu puedes ver de forma actual
-              los valores del UF (Unidad de fomento) también el valor Actual del Dolar.
+              los valores de la UF (Unidad de fomento) también el valor Actual del Dolar.
             </p>
           </Col>
           <Col sm={2}>
