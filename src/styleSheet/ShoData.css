@@ -1,0 +1,40 @@
+#card {
+    margin-top: -13%;
+}
+
+#envivo {
+    color: chartreuse;
+    animation-duration: 2s;
+    animation-name: slidein;
+    animation-iteration-count: infinite;
+}
+
+
+@keyframes slidein  {
+    from {
+     opacity: 0;
+    }
+  
+    to {
+      opacity: 100%;
+    }
+  }
+
+#off {
+    color: rgb(255, 0, 0);
+}
+
+#datas {
+    animation-duration: 9s;
+    animation-name: delay;
+}
+
+@keyframes delay  {
+  from {
+   opacity: 0;
+  }
+
+  to {
+    opacity: 100%;
+  }
+}

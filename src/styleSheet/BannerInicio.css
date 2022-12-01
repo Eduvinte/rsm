@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#contenedor-principal {
+    background-image: url(../imagenes/phone.jpg);
+    background-position: 5% 80%;
+    background-repeat: no-repeat;
+    height: 100vh;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#contenedor-principal p {
+    text-align: justify;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+#title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#form {
+    background-color: rgba(255, 255, 255, 0.514);
+    padding: 3%;
+}

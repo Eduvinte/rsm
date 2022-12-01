@@ -1,0 +1,26 @@
+#text {
+    background-color: rgba(216, 215, 215, 0.719);
+    width: 80%;
+    padding: 5%;
+    border-radius: 10px;
+}
+
+#text h4{
+    margin-bottom: 5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+
+#text p{
+    text-align:justify;
+    font-size: 20px;
+}
+
+
+.about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5%;
+    
+}

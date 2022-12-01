@@ -1,0 +1,40 @@
+#banner {
+    background-image: url(../imagenes/banner.jpg);
+    background-repeat: no-repeat;
+    background-position:right;
+    height: 100vh;
+}
+
+#banner {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+#btn {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    padding: 10px;
+    box-shadow: 1px 1px 1px 3px rgba(0, 0, 0, 0.192);
+    background-color: #008a85;
+}
+
+#btn:hover {
+    transition: 0.5s;
+    background-color: #07d4ce;
+}
+
+#title-banner {
+    background-color: rgba(0, 0, 0, 0.315);
+    width: 80%;
+    padding: 2%;
+}
+
+#title-banner h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+
+
+
