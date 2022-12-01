@@ -13,7 +13,7 @@ function BannerInicio() {
           <Col sm={5} id="title">
             <p>
               Te invitamos a nuestra plataforma, indicadores financieros.
-              En que consiste esta página web ? Acá tu puedes ver de forma actual
+              ¿En que consiste esta página web? Acá tu puedes ver de forma actual
               los valores de la UF (Unidad de fomento) también el valor Actual del Dolar.
             </p>
           </Col>
