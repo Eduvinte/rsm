@@ -4,7 +4,7 @@ import "../styleSheet/ShoData.css";
 
 const Dolar = () => {
 
-
+// Actualiza cuando sea 1 hora de la manaña
   setInterval(() => {
     const d = new Date();
     const h = d.getHours();
